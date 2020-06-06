@@ -1,4 +1,4 @@
-# HomeWork-Excel Challenge
+# Excel Challenge
 
 ## Excel Homework: Kickstart My Chart
 
